@@ -16,3 +16,7 @@ h1 {
     font-family: 'Bevan', cursive;
     font-weight: normal;
 }
+.wrong{
+    font-size: 30px;
+    color: red;
+}
